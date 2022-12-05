@@ -1,0 +1,262 @@
+body{
+    margin: 0;
+    /* background-image: url("images/b.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+#title{
+    padding: 2rem 10% 9.8rem;
+    background-image: url("images/b.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar-brand{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 600;
+    font-size: 3rem;
+}
+.nav-link{
+    font-size: 1.3rem;
+    margin: auto 1rem;
+}
+.tlt{
+    font-size: 5rem;
+    /* background: linear-gradient(
+        to right,#562B08,#B55400, #ff6b08,#a49509);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text; */
+    color: #fff;
+    font-family: 'Anton', sans-serif;
+}
+.secII{
+    margin-top: 8rem;
+}
+.log-img{
+    width: 4rem;
+    padding-bottom: 1rem;
+}
+.tlt-line{
+    color: #fff;
+    font-size: 1.3rem;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    opacity: 80%;
+}
+.tlt-b-1{
+    background-color: #CC9B6D;
+    border-color: #CC9B6D;
+    margin-right: 2rem;
+    width: 30%;
+}
+.tlt-b-1:hover{
+    background-color: #D3A284;
+    border-color: #D3A284;
+}
+.tlt-b-2{
+    border-color: #fff;
+    color: #fff;
+    width: 30%;
+}
+.tlt-b-2:hover{
+    border-color: #D3A284;
+    background-color: #D3A284;
+    color: #fff;
+}
+.foot-div{
+    background-color: #403832;
+    color: #fff;
+    padding: 0 4%;
+}
+h4{
+    margin-top: 3rem;
+}
+.col-lg-4{
+    padding: 0 1rem;
+}
+.fot-1{
+    line-height: 1.8;
+    margin: 2rem 0 5rem;
+    color: #a29d9a;
+}
+.fot-2{
+    margin: 3rem 0;
+    color: #a29d9a;
+    font-family: 'Syne Mono', monospace;
+    margin-right: 2rem;
+}
+.fot-3{
+    margin: 3rem 0;
+}
+.fa-brands{
+    font-size: 1.8rem;
+    margin: 0 0.4rem;
+    color: #a29d9a;
+}
+.about-div{
+    background-color: #ede9e1;
+    margin: 0;
+}
+.about-img{
+    display: inline-block;
+    width: 30%;
+    margin: 8rem 1.3%;
+}
+.about-title{
+    font-family: 'Philosopher', sans-serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+}
+.about-tlt-div{
+    margin: 8rem auto 8rem 5%;
+}
+.ab-1{
+    margin: 3rem 0;
+    color: #a29d9a;
+    font-family: 'Syne Mono', monospace;
+}
+.div-1about{
+    padding-left: 0;
+}
+.about-img-1{
+    margin-left: 0;
+    width: 30%;
+}
+#menu{
+    background-image: url("images/back-menu.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5% 0;
+}
+#testimonials{
+    background-color: #ede9e1;
+    text-align: center;
+    padding: 5% 0;
+}
+.carousel-item{
+    padding: 5% 15% 5% 15%;
+}
+.testimonials-tlt{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+}
+.testi-p{
+    color: #a29d9a;
+}
+.testimonials-para{
+    width: 60%;
+    margin: 0 auto;
+    font-family: 'Syne Mono', monospace;
+    opacity: 60%;
+}
+.testimonials-name{
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 1.3rem;
+}
+.testimonials-img{
+    border-radius: 100%;
+    width: 20%;
+    margin-bottom: 2rem;
+}
+.card{
+    border: 0;
+    border-radius: 0;
+    background: none;
+    color: #fff;
+    text-align: center;
+}
+.card:hover{
+    background-color: #D3A284;
+    opacity: 90%;
+}
+.card-img-top{
+    padding: 5%;
+}
+/* .right-menu-div{
+    background-color: #403832;
+    opacity: 70%;
+    height: 60%;
+    margin: 15% 0;
+} */
+.menu-tlt{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    color: #fff;
+    margin-top: 20%;
+}
+.menu-para{
+    color: #fff;
+    opacity: 60%;
+    width: 60%;
+    margin: 0 auto 3rem;
+}
+.right-menu-div{
+    text-align: center;
+}
+.card-title{
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+}
+#contact{
+    background-image: url("images/contact-img.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 7% 7%;
+}
+.contact-div{
+    background-color: #fff;
+    text-align: center;
+    padding: 2rem;
+}
+.h4-con{
+    margin: 0;
+    margin-bottom: 1rem;
+    color: #000;
+}
+.p-con{
+    margin: 0;
+}
+.hr-con{
+    width: 60%;
+    margin: 1rem auto;
+}
+.con-time{
+    font-size: 0.8rem;
+    color: #000;
+    opacity: 70%;
+}
+.contact-p{
+    width: 60%;
+    margin: auto;
+    margin-bottom: 1.5rem;
+}
+.input-group-text{
+    text-align: center;
+    background-color: #403832;
+    color: #fff;
+    opacity: 80%;
+    width: 25%;
+}
+.input-group-text1{
+    width: 2.5rem;
+}
+.con-div1{
+    margin-top: 1.8rem;
+}
+.submit-con{
+    margin-top: 1rem;
+    background-color: #403832;
+    color: #fff;
+    opacity: 80%;
+}
+.submit-con:hover{
+    background-color: #403832;
+    color: #fff;
+    opacity: 70%;
+}
+.dropdown-menu{
+    background-color: #403832;
+    opacity: 80%;
+}

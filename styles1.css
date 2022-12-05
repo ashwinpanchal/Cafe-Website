@@ -1,0 +1,63 @@
+body{
+    background-color: #FFF8EA;
+}
+#title{
+    padding: 1rem 10%;
+    background-color: #FFF8EA;
+    background-image: none;
+}
+.navbar-brand{
+    color: black;
+}
+.nav-link{
+    color: black;
+}
+#head{
+    text-align: center;
+    background-image: url("images/menu/back2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10% 40%;
+
+}
+.head-menu{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #fff;
+}
+#grids{
+    padding: 8% 10%;
+    background-image: linear-gradient(to bottom, #9E7676, #815B5B,#594545);
+}
+.card-title{
+    margin-bottom: 1rem;
+}
+.card:hover{
+    background-color: #FFF8EA;
+    color: #000;
+}
+#footer{
+    text-align: center;
+    padding: 4% 10%;
+}
+.log-img-fot{
+    width: 4%;
+}
+.head-fot{
+    font-size: 2.3rem;
+}
+.fot-2{
+    width: 40%;
+    margin: 1rem auto;
+}
+.fot-hr{
+    width: 50%;
+    margin: 1rem auto;
+}
+.fot-3{
+    margin: 0;
+    margin-top: 2rem;
+}
+.fa-brands{
+    color: #594545;
+}
