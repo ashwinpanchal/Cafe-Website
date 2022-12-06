@@ -9,6 +9,7 @@ body{
     background-image: url("images/b.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100%;
 }
 .navbar-brand{
     font-family: 'Dancing Script', cursive;
